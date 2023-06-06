@@ -3,7 +3,7 @@
 
 // Brute force
 
-// public class maximumsubarray4 {
+// public class prob5 {
 //     private static int maxsubarraysum(int[] arr) {
 //         int n = arr.length;
 //         int sum = 0;
@@ -29,7 +29,7 @@
 
 // better 
 
-// public class maximumsubarray4 {
+// public class prob5 {
 //     private static int maxsubarraysum(int[] arr) {
 //         int n = arr.length;
 //         int sum = 0;
@@ -52,7 +52,7 @@
 
 // optimal
 
-public class maximumsubarray4 {
+public class prob4 {
     private static int maxsubarraysum(int[] arr) {
         int sum = 0;
         int maxsum = Integer.MIN_VALUE;

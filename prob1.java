@@ -4,7 +4,7 @@
 /**
  * InnersetMatrixtoZero
  */
-public class setmatrixtozero1 {
+public class prob1 {
     private static void fun(int[][] arr, int r, int c) {
         int temp[][] = new int[r][c];
         for(int i = 0;i < r;i++){
@@ -45,7 +45,7 @@ public class setmatrixtozero1 {
 }
 
 // better force
-// public class setMatrixtoZero {
+// public class prob1 {
 
 //     private static void fun(int[][] arr,int r,int c) {
         

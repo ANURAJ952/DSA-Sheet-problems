@@ -5,7 +5,7 @@
 
 // /better
 
-public class sort0s1s2s5{
+public class prob6{
     public static void sort(int nums[]) {
         int cnt0 = 0,cnt1 = 0,cnt2 = 0;
        for(int x : nums){
@@ -31,7 +31,7 @@ public class sort0s1s2s5{
 
 // optimal 
 
-// public class sort0s1s2s5{
+// public class prob6{
 //     public static void sort(int nums[]) {
 //         int n = nums.length;
 //         int low = 0,mid = 0,high = n-1;

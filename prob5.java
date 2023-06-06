@@ -2,7 +2,7 @@
 
 // brute
 
-public class besttimetobuyandsellstocks {
+public class prob5 {
     private static void stocks(int[] arr) {
         int n = arr.length;
         int ans = 0;
@@ -22,7 +22,7 @@ public class besttimetobuyandsellstocks {
 
 // optimal
 
-// public class besttimetobuyandsellstocks {
+// public class prob5 {
 //     private static void stocks(int[] arr) {
 //         int n = arr.length;
 //         int min = arr[0];

@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-public class pascalTriangle2 {
+public class prob2 {
     public static  List<List<Integer>> generate(int numRows) {
         List<List<Integer>>ans = new ArrayList<>(numRows);
         if(numRows <= 0) return ans;

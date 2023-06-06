@@ -7,7 +7,7 @@
 // optimal
 
 
-public class nextpermutation3 {
+public class prob3 {
     public static void reverse(int nums[],int s,int e){
         while(s < e){
             int temp = nums[s];
